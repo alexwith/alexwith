@@ -1,2 +1,4 @@
-### Hey, I'm Alex
-Some 18 year old guy who likes to code. 👋
+### Hey, I'm Alex 👋
+I enjoy building cool things 🔨. Mostly using java.  
+
+TypeScript is good, python is decent.
