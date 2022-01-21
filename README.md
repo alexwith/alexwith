@@ -1,4 +1,4 @@
 ### Hey, I'm Alex 👋
-I enjoy building cool things 🔨. Mostly using java.  
+I enjoy building cool things 🔨. Mostly using java ☕.  
 
-TypeScript is good, python is decent.
+TypeScript ⌨️ is good, python 🐍 is decent.
